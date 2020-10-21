@@ -9,6 +9,7 @@ hello
 foo
 ======
 bar
+>>>>>>>   
 
 >>>>>>> 6c2ea94f152a99facb70ae999eccbaae911752b8
 
