@@ -6,7 +6,7 @@ hi ramya
 =======
 hello
 <<<<<<<HEAD
-meow
+bow
 ====
 bar
 >>>>>>>   
