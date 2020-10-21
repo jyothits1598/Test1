@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 hello jyoti ts
 
 
 hi ramya
 =======
 hello
-<<<<<<<HEAD
+<<<<<<<FOOT
 f00003
 ====
 bar
