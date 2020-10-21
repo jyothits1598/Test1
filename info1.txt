@@ -6,8 +6,8 @@ hi ramya
 =======
 hello
 <<<<<<<HEAD
-foo
-======
+meow
+====
 bar
 >>>>>>>   
 
